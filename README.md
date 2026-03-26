@@ -27,12 +27,15 @@ This skill provides:
 
 ## Recognition Test
 
-- Test image: https://picui.ogmua.cn/s1/2026/03/26/69c40faadc447.webp
+- Test image: 
+- ![Alt text](https://picui.ogmua.cn/s1/2026/03/26/69c40faadc447.webp)
 - Results:
-- English: hello world
-- Simplified Chinese: 你好世界
-- Traditional Chinese: 今日氣溫有所降低，請穿好棉服
-- Punctuation: ，。；""/？'！~、|\@#$%&*()_-=+；：[]{}【】「」《》，<>
+```
+English: hello world
+Simplified Chinese: 你好世界
+Traditional Chinese: 今日氣溫有所降低，請穿好棉服
+Punctuation: ，。；""/？'！~、|\@#$%&*()_-=+；：[]{}【】「」《》，<>
+```
 
 ## Quick Start
 
