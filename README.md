@@ -1,6 +1,6 @@
 # BaiduOCR-LocalFallback
 
-English ｜ [![简体中文]([https://github.com/xx235300/BaiduOCR-LocalFallback/README_ZN.md](https://github.com/xx235300/BaiduOCR-LocalFallback/blob/main/README_ZN.md))]
+English ｜ [[简体中文](https://github.com/xx235300/BaiduOCR-LocalFallback/blob/main/README_ZN.md)]
 
 > **Disclaimer**:
 > 1. This project is not an official Baidu product and has no affiliation with Baidu. This project only provides a wrapper for Baidu OCR API; users must apply for a Baidu Cloud account and comply with Baidu's terms of service.
