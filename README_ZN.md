@@ -1,6 +1,6 @@
 # BaiduOCR-LocalFallback
 
-[![English](https://github.com/xx235300/BaiduOCR-LocalFallback/README.md)] ｜ 简体中文
+[[English](https://github.com/xx235300/BaiduOCR-LocalFallback/blob/main/README.md)] ｜ 简体中文
 
 > **免责声明**：
 > 1. 本项目非百度官方产品，与百度公司无隶属关系。本项目仅提供对百度 OCR API 的调用封装，用户需自行申请百度智能云账号并遵守百度服务条款。
