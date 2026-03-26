@@ -31,10 +31,10 @@ This skill provides:
 ![Alt text](https://picui.ogmua.cn/s1/2026/03/26/69c40faadc447.webp)
 - Results:
 ```
-English: hello world
-Simplified Chinese: 你好世界
-Traditional Chinese: 今日氣溫有所降低，請穿好棉服
-Punctuation: ，。；""/？'！~、|\@#$%&*()_-=+；：[]{}【】「」《》，<>
+测试英文识别：hello world
+测试简体中文识别：你好世界
+测试繁体中文识别：今日氣溫有所降低，請穿好棉服
+测试标点符号识别：，。；""/？'！~、|\@#$%&*()_-=+；：[]{}【】「」《》，<>
 ```
 
 ## Quick Start
