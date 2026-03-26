@@ -28,7 +28,7 @@ This skill provides:
 ## Recognition Test
 
 - Test image: 
-- ![Alt text](https://picui.ogmua.cn/s1/2026/03/26/69c40faadc447.webp)
+![Alt text](https://picui.ogmua.cn/s1/2026/03/26/69c40faadc447.webp)
 - Results:
 ```
 English: hello world
